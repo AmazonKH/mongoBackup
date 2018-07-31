@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"camboparcel.routes"},{"v":2,"unique":true,"key":{"from":1,"to":1},"name":"from_1_to_1","ns":"camboparcel.routes","background":true}],"uuid":"c99e9e0eca4547a68c139f9aed78421e"}

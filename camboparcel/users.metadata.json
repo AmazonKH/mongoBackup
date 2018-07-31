@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"camboparcel.users"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"camboparcel.users","background":true}],"uuid":"59f33d5c1dc748ddb2488181f17a22c8"}
